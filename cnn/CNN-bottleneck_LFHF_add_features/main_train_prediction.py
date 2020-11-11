@@ -1,6 +1,5 @@
-""" this code is to save the model at the epoch that is not saved previously. 
-user will input DESIRED_VAL_ACC, model_checkpoint. this code will load the model at
-the checkpoint and train untill obtained the DESIRED_VAL_ACC"""
+""" this code is to train the model from previous saved_model"""
+
 
 import numpy as np
 import tensorflow as tf
