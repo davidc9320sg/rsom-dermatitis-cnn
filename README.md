@@ -25,3 +25,6 @@ The folder ```cnn``` contains the script used for the three experiments - (i)CNN
 
 ## Skin Surface
 The folder ```skin_surface``` contains the script used to detect the skin surface for cropping.  
+
+--------------
+*Note*: this repository only contains the code used in the experiments to train the models. The data is not available for sharing.
