@@ -15,7 +15,7 @@ et al. (\* co-first authors)
 The folder ```classic_ml``` contains the script used for the experiments that employ classical machine learning algorithm, namely Random Forest (RF) and Support Vector Machines (SVM) as mentioned in the manuscript.
 
 ## CNN
-The folder ```cnn``` ... contains the script used for the three experiments - (i)CNN-bottleneck_LFHF, (ii) CNN-bottleneck_LFHF_3features and (iii) CNN-bottleneck_LFHF_features. The third folder "CNN-bottleneck_LFHF_features" is an experiment using RSOM images and all four features, as mentioned in the manuscript. 
+The folder ```cnn``` contains the script used for the three experiments - (i)CNN-bottleneck_LFHF, (ii) CNN-bottleneck_LFHF_3features and (iii) CNN-bottleneck_LFHF_features. The third folder "CNN-bottleneck_LFHF_features" is an experiment using RSOM images and all four features, as mentioned in the manuscript. 
 
 1. main_GenerateCSVFiles.py - this is to generate the CSV file that contain the list of case that used in each cross validation
 2. main_GenerateData.py.py - this is to generate RSOM data which include cropping and augmenting used as input to the CNN model. 
@@ -24,4 +24,4 @@ The folder ```cnn``` ... contains the script used for the three experiments - (i
 
 
 ## Skin Surface
-The folder ```skin_surface```... contains the script used to detect the skin surface for cropping.  
+The folder ```skin_surface``` contains the script used to detect the skin surface for cropping.  
